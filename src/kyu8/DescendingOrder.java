@@ -2,6 +2,7 @@ package kyu8;
 
 class DescendingOrder {
 
+    //Сортировка строки в порядке убывания
     public static int descendingOrder(int num) {
 
         StringBuilder sbInput = new StringBuilder();
